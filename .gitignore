@@ -5,3 +5,4 @@ yolov3-train_final.weights
 images.zip
 images (ORIGINAL).zip
 segmentation/characters_model.weights
+yolov3-train_final_old.weights
