@@ -2,3 +2,6 @@
 yolov3-train_final.weights
 003.jpg
 *.jpg
+images.zip
+images (ORIGINAL).zip
+segmentation/characters_model.weights
